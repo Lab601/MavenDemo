@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project name="${webapp.name}" default="compile" basedir="D:\build" >
     <property file="D:\workspace\stuMgm\build.properties" />
     <property name="complile.dir" location="${basedir}/classes"/>
@@ -6,7 +6,7 @@
     <property name="lib.dir" value="${basedir}/WebContent/WEB-INF/lib"/>
     <property name="dist.dir" value="${basedir}/dist"/>
 	<property name="project.dir" value="D:\workspace\stuMgm"/>
-
+  
 
    <!-- ================================= 
           第一步：创建各类资源目录：源代码、jar库、编译中间目录、发布资源目录              
